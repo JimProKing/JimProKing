@@ -21,22 +21,15 @@ Here are some of the technologies and tools I work with:
 
 ## 💼 Experience
 
-- 🏢 Software Engineer at XYZ Company (2019-2021)
-- 🏢 Full-stack Developer at ABC Startup (2017-2019)
+### secret
 
 ## 🌟 Projects
 
 Here are some of my noteworthy projects:
 
-- [Project A](link-to-project-a): A web application for managing tasks and improving productivity.
-- [Project B](link-to-project-b): An e-commerce platform built with React and Node.js.
-- [Project C](link-to-project-c): A machine learning model for sentiment analysis.
+### secret
 
-## 📫 Contact Me
 
-Feel free to reach out to me! You can connect with me on [LinkedIn](link-to-linkedin) or [send me an email](mailto:your-email@example.com).
-
-Let's collaborate and build amazing things together! 🎉
 ~~
 # 안녕하세요, 저는 JimProKing입니다! 👋
 
@@ -59,21 +52,3 @@ Let's collaborate and build amazing things together! 🎉
 - **버전 관리:** Git
 - **배포:** Heroku, AWS
 
-## 💼 경험
-
-- 🏢 XYZ 회사 소프트웨어 엔지니어 (2019-2021)
-- 🏢 ABC 스타트업 풀스택 개발자 (2017-2019)
-
-## 🌟 프로젝트
-
-다음은 제 주목할 만한 몇 가지 프로젝트입니다:
-
-- [프로젝트 A](프로젝트-A-링크): 작업 관리 및 생산성 향상을 위한 웹 애플리케이션.
-- [프로젝트 B](프로젝트-B-링크): React와 Node.js로 구축한 전자 상거래 플랫폼.
-- [프로젝트 C](프로젝트-C-링크): 감성 분석을 위한 머신 러닝 모델.
-
-## 📫 연락처
-
-언제든지 저에게 연락해 주세요! [LinkedIn](LinkedIn-링크)에서 저와 연결하거나 [이메일을 보내주세요](mailto:your-email@example.com).
-
-함께 협업하여 멋진 프로젝트를 만들어 봅시다! 🎉
