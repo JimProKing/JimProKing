@@ -1,4 +1,4 @@
-# 이영찬
+# JimProKing
 
 - 꾸준히 개발을 하며 내용들을 형상관리 하고 있습니다.
 - Python, Java, dart(flutter) 등의 다양한 언어를 사용하고 있습니다.
