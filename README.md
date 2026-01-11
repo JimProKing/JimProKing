@@ -1,5 +1,5 @@
 # JimProKing
-![image](https://github.com/user-attachments/assets/964b75fd-0044-49bd-b886-3fda2a95f2ea)
+<img src="https://github.com/user-attachments/assets/964b75fd-0044-49bd-b886-3fda2a95f2ea" width="300" />
 
 - 꾸준히 개발을 하며 내용들을 형상관리 하고 있습니다.
 - Python, Java, dart(flutter) 등의 다양한 언어를 사용하고 있습니다.
