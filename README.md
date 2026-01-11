@@ -12,5 +12,14 @@
 <img width="2190" height="1188" alt="image" src="https://github.com/user-attachments/assets/bde70afd-0e0b-49b2-8dd6-bf4fd60cd397" />
 * 현재는 겸직금지조항때문에 앱을 다 내린 상태
 
+---
+# 개발 로그
+### 2025년 이전:: 기본기 정립 단계 (깃허브 형상관리X)
+- python: Django, flask, Tensorflow 등과 같은 프레임워크들을 일상적으로 사용해보며 체득
+- Java: Spring framework를 사용해서 CRUD 서버 구축 등의 예제 수행
 
+### 2025년 이후
+- fastapi (파이썬):: '25.11.~
+   - 간단한 앱들 제작
+> 1. FastAPI를 이용한 파이썬 웹 개발
   
