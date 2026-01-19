@@ -24,7 +24,8 @@
 > 1. FastAPI를 이용한 파이썬 웹 개발 정복
 <img width="339" height="441" alt="image" src="https://github.com/user-attachments/assets/71ec29ed-6505-40ca-84d2-ca89d3af1727" />
 
-[깃허브 링크_메모 앱]((https://github.com/JimProKing/FastAPI_Real))
+[깃허브 링크_메모 앱](https://github.com/JimProKing/FastAPI_Real)
 
-[이벤트 플래너 앱]((https://github.com/JimProKing/FastAPI_Real))
+[이벤트 플래너 앱]([https://github.com/JimProKing/FastAPI_Real](https://github.com/JimProKing/Event_Planner_with_fastapi))
+
   
