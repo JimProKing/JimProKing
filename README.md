@@ -19,7 +19,9 @@
 - Java: Spring framework를 사용해서 CRUD 서버 구축 등의 예제 수행
 
 ### 2025년 이후
-- fastapi (파이썬):: '25.11.~
+- fastapi (파이썬):: '25.11.~'26.01.
    - 간단한 앱들 제작
-> 1. FastAPI를 이용한 파이썬 웹 개발
+> 1. FastAPI를 이용한 파이썬 웹 개발 정복
+<img width="339" height="441" alt="image" src="https://github.com/user-attachments/assets/71ec29ed-6505-40ca-84d2-ca89d3af1727" />
+> 2. 
   
