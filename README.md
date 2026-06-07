@@ -2,39 +2,62 @@
 
 <img src="https://github.com/user-attachments/assets/964b75fd-0044-49bd-b886-3fda2a95f2ea" width="300" />
 
-> 꾸준히 개발하고, 배운 것들을 정리하며 성장하는 개발자입니다.
+**Backend & Mobile Developer** | Python · FastAPI · Flutter
 
-## 🛠️ Tech Stack
+> 실무와 개인 프로젝트를 통해 지속적으로 성장하는 개발자입니다.
 
-- **Languages**: Python, Dart (Flutter), Java
-- **Backend**: FastAPI, Django, Flask, Spring
-- **Mobile**: Flutter + Supabase
-- **Etc**: TensorFlow
+## About Me
 
-## 📱 Mobile App Development
+- Flutter + Supabase로 **10개 이상의 모바일 앱**을 직접 기획, 개발, 배포한 경험 보유
+- FastAPI를 중심으로 웹/백엔드 서비스를 빠르게 개발하고 운영한 프로젝트 다수 진행
+- 직장에서는 Java(Spring) 환경에서 협업하며 실무 경험을 쌓고 있습니다
 
-Flutter + Supabase로 **10여 개의 모바일 앱**을 개인적으로 기획·개발·배포한 경험이 있습니다.
+## 🛠 Skills
+
+| Category     | Technologies                          |
+|--------------|---------------------------------------|
+| **Language** | Python, Dart (Flutter), Java          |
+| **Backend**  | FastAPI, Django, Flask, Spring        |
+| **Mobile**   | Flutter, Supabase                     |
+| **Others**   | Git, GitHub, TensorFlow (기초)        |
+
+## 📱 Projects & Experience
+
+### Mobile Applications
+**Flutter + Supabase 기반 모바일 앱 10+ 개발·배포**
+
+개인 프로젝트로 다양한 모바일 애플리케이션을 기획부터 배포까지 직접 진행했습니다.
 
 <img width="2266" height="1328" alt="image" src="https://github.com/user-attachments/assets/0f9204e2-4414-4a71-a31f-24bce1927388" />
 <img width="2190" height="1188" alt="image" src="https://github.com/user-attachments/assets/bde70afd-0e0b-49b2-8dd6-bf4fd60cd397" />
 
-> 현재는 회사 겸직 금지 조항으로 인해 앱을 비공개 처리했습니다.
+> 현재는 회사 정책(겸직 금지)으로 인해 앱 스토어 공개를 중단한 상태입니다.
 
-## 📖 Development Log
+### Recent Projects
 
-### 2025년 이전 — 기초 다지기
-- **Python**: Django, Flask, TensorFlow 등 프레임워크로 프로젝트 경험
-- **Java**: Spring Framework를 활용한 서버 구축 학습
+- **[FastAPI Real](https://github.com/JimProKing/FastAPI_Real)** — 메모 앱
+- **[Event Planner with FastAPI](https://github.com/JimProKing/Event_Planner_with_fastapi)** — 이벤트 플래너 앱
 
-### 2025년 ~ 2026년 — FastAPI 집중
-- **FastAPI** 중심으로 웹/백엔드 앱 제작
-- 학습: 《FastAPI를 이용한 파이썬 웹 개발 정복》
+## 📖 Journey
 
-**프로젝트**
+**2025년 이전** — 기초 체력 다지기
+- Python (Django, Flask, TensorFlow)과 Java (Spring)로 다양한 예제와 프로젝트 수행
 
-- [메모 앱](https://github.com/JimProKing/FastAPI_Real)
-- [이벤트 플래너 앱](https://github.com/JimProKing/Event_Planner_with_fastapi)
+**2025~2026** — FastAPI 집중 성장기
+- FastAPI를 메인 스택으로 실제 서비스 형태의 프로젝트 다수 제작
+- 《FastAPI를 이용한 파이썬 웹 개발 정복》 학습
+
+## 📊 GitHub Stats
+
+![JimProKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimProKing&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JimProKing&layout=compact&theme=transparent&hide_border=true)
+
+## 📬 Contact
+
+- **Email**: caramel2516@naver.com
+- **KakaoTalk**: caramel112
 
 ---
 
-궁금한 점 있으면 언제든 말씀해주세요!
+언제든 편하게 연락 주세요. 함께 성장할 기회를 기다리고 있습니다!
