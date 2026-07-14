@@ -1,6 +1,6 @@
 # 👋 JimProKing
 
-**Python Developer | Crypto & Finance Tools | Web Security Education**
+**Python Developer | Crypto & Finance Tools | Web Security Education | Mobile Apps**
 
 > 복잡한 시스템을 만들며 실전 도구와 교육용 플랫폼을 구축하는 개발자입니다.
 
@@ -10,6 +10,7 @@
 - **XRPL / XRP 온체인 대시보드** 구축: 실시간 차트, 프리미엄, 부자 순위 등 종합 데이터 시각화
 - **웹 해킹 교육 플랫폼**: 한국어 웹 해킹 책 기반의 취약 실습 사이트 (VulnBoard 시리즈)
 - **실전 웹 애플리케이션**: 세금계산서 시스템, 상품 데모 등 Flask 기반 웹 앱 개발
+- **모바일 앱 개발 (2022~2023)**: Flutter로 교육용 앱 10여 개 제작·배포 (App Store / Google Play, 상호명 짐앱)
 
 ## 🛠️ Skills
 
@@ -51,6 +52,19 @@
 
 - **[tax-invoice-web](https://github.com/JimProKing/tax-invoice-web)** — Flask 기반 한국형 세금계산서 작성/발행/인쇄 웹 앱
 - **[pinkmiya](https://github.com/JimProKing/pinkmiya)** — 플라스크 + Tailwind 기반 귀여운 반려동물 쇼핑몰 데모
+
+### 📱 Mobile App Development (2022~2023)
+
+2022~2023년에 **Flutter 기반 모바일 앱 10여 개**를 직접 제작·배포·판매했습니다. (상호명: **짐앱**)  
+App Store · Google Play에 교육/라이선스 시험 대비 앱을 출시했습니다.
+
+- 영어 학습·토익·오픽, 한국사, 화학기사(필기/실기/학급), 미라클모닝 등 교육 앱 시리즈
+- **App Store Connect** 판매 및 **Google Play Console** 배포·운영 경험
+
+<p align="center">
+  <img src="assets/app-store.jpg" alt="App Store Connect - 앱 판매 현황" width="48%" />
+  <img src="assets/play-store.jpg" alt="Google Play Console - 앱 목록" width="48%" />
+</p>
 
 ### Fundamentals
 
