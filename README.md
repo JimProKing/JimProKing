@@ -42,7 +42,7 @@
 
 - **[VulnBoard + webhacking-bible-lab](https://github.com/JimProKing/VulnBoard)**  
   한국어 웹 해킹 책(크리해킹티브) 기반 의도적으로 취약한 실습 웹사이트. SQL Injection, XSS, IDOR, Command Injection 등 실제 공격 시나리오 제공. 
-  구조화된 문제집 + 푸이 및 해결 설명 포함. Burp Suite 실습용.  
+  구조화된 문제집 + 풀이 및 해결 설명 포함. Burp Suite 실습용.  
   [Live Demo](https://web-production-debfb.up.railway.app/)
 
 - **[SQL Injection Lab](https://github.com/JimProKing/sql-injection-lab)**  
@@ -100,3 +100,109 @@ App Store · Google Play에 교육/라이선스 시험 대비 앱을 출시했�
 ---
 
 프로젝트 또는 협업 관련 이야기 환영합니다. 언제든 연락 주세요!
+
+---
+
+<br>
+
+# 👋 JimProKing (English)
+
+**Python Developer | Crypto & Finance Tools | Web Security Education | Mobile Apps**
+
+> A developer who builds real-world tools and educational platforms by creating complex systems.
+
+## About Me
+
+- **Elliott Wave-based trading tools**: Scanners analyzing top stocks and crypto pairs (Binance, Korean equities)
+- **XRPL / XRP On-Chain Dashboard**: Real-time charts, premium, rich-list and comprehensive data visualization
+- **Web Hacking Education Platform**: Intentionally vulnerable practice sites based on Korean web hacking books (VulnBoard series)
+- **Practical Web Applications**: Tax invoice system, product demos and other Flask-based apps
+- **Mobile App Development (2022–2023)**: Built and published 10+ educational apps with Flutter (App Store / Google Play, brand name: JimApp)
+
+## 🛠️ Skills
+
+| Category          | Technologies                                      |
+|-------------------|---------------------------------------------------|
+| **Languages**     | Python, HTML/CSS/JS, Dart (Flutter basics)        |
+| **Backend**       | FastAPI, Flask, Django, Spring (work)             |
+| **Data & Crypto** | pandas, numpy, FinanceDataReader, XRPL, Binance API |
+| **Web Security**  | SQL Injection, XSS, IDOR, Burp Suite, Vuln labs   |
+| **Tools**         | GitHub Actions, Railway, SQLite, Tailwind         |
+| **Other**         | Data Visualization, Web Crawling, OCR             |
+
+## 🚀 Featured Projects
+
+### 📈 Crypto & Finance Tools
+
+- **[Elliott Wave Scanner](https://github.com/JimProKing/elliott-wave-scanner)**  
+  Elliott Wave scanner for high-volume Binance USDT pairs. Auto-runs every 4 hours via GitHub Actions and serves results on a public web viewer.  
+  [Live Demo](https://elliott-focused-viewer-production.up.railway.app/)
+
+- **[XRP On-Chain Dashboard](https://github.com/JimProKing/xrp-dashboard)**  
+  Dashboard showing XRPL on-chain data, exchange volumes, Korea premium and real-time charts in one place.  
+  [Live Demo](https://web-production-7a41a.up.railway.app/)
+
+- **[Elliott Wave Stock Recommender](https://github.com/JimProKing/elliott-wave-stock-recommender)**  
+  Elliott Wave-based upside analysis tool for high-volume Korean stocks. Calm pastel web UI with cute pet photos.
+
+### 🔨 Web Security Education Labs
+
+- **[VulnBoard + webhacking-bible-lab](https://github.com/JimProKing/VulnBoard)**  
+  Intentionally vulnerable practice website based on a Korean web-hacking book. Covers SQL Injection, XSS, IDOR, Command Injection and more. Includes structured challenges + solutions. Designed for Burp Suite practice.  
+  [Live Demo](https://web-production-debfb.up.railway.app/)
+
+- **[SQL Injection Lab](https://github.com/JimProKing/sql-injection-lab)**  
+  SQLi education lab built with Python (Flask) and JSP. Vulnerable vs secure versions for comparison.
+
+### 🌐 Practical Web Apps
+
+- **[tax-invoice-web](https://github.com/JimProKing/tax-invoice-web)** — Korean-style tax invoice creation / issuance / print web app (Flask)
+- **[pinkmiya](https://github.com/JimProKing/pinkmiya)** — Cute pet shopping mall demo (Flask + Tailwind)
+
+### 📱 Mobile App Development (2022–2023)
+
+In 2022–2023 I independently built, published and sold **10+ Flutter-based mobile apps** (brand name: **JimApp**).  
+Educational / license-exam prep apps were released on the App Store and Google Play.
+
+- English learning, TOEIC, OPIc, Korean history, Chemical Engineering (written/practical), Miracle Morning and more
+- Experience with **App Store Connect** sales and **Google Play Console** publishing & operations
+
+<p align="center">
+  <img src="assets/app-store.jpg" alt="App Store Connect - App sales" width="48%" />
+  <img src="assets/play-store.jpg" alt="Google Play Console - App list" width="48%" />
+</p>
+
+### Fundamentals
+
+- **[python-data-structures](https://github.com/JimProKing/python-data-structures)** — Python data-structure implementations focused on university coursework
+- **[xrpl_examples](https://github.com/JimProKing/xrpl_examples)** — Beginner-friendly XRPL (XRP Ledger) Python examples
+
+## 📈 Journey
+
+**2022–2023** — Mobile app development & launch
+- Built **10+ educational mobile apps** with Flutter (English / Korean history / Chemical Engineering / OPIc etc.)
+- Published and operated on App Store & Google Play (brand: JimApp)
+
+**2023–2025** — Building foundations
+- Python (Django, Flask, FastAPI), Java (Spring), Flutter-based app development
+- Practice projects on data visualization, crawling, OCR, etc.
+
+**2025–2026** — Professional tool development
+- Finance / XRPL-based crypto & finance tools (Elliott Wave, XRP Dashboard)
+- Web hacking education platforms (VulnBoard series)
+- Practical business web apps (tax invoice etc.)
+
+## 📊 GitHub Stats
+
+![JimProKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimProKing&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JimProKing&layout=compact&theme=transparent&hide_border=true)
+
+## 📬 Contact
+
+- **Email**: caramel2516@naver.com
+- **KakaoTalk**: caramel112
+
+---
+
+Feel free to reach out about projects or collaboration anytime!
