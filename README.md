@@ -90,12 +90,6 @@ App Store · Google Play에 교육/라이선스 시험 대비 앱을 출시했�
 - **웹·API 해킹 교육 플랫폼** 제작 (VulnBoard, API 해킹 야간 노트)
 - 실전 비즈니스 웹 앱 (세금계산서 등)
 
-## 📊 GitHub Stats
-
-![JimProKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimProKing&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JimProKing&layout=compact&theme=transparent&hide_border=true)
-
 ## 📬 Contact
 
 - **Email**: caramel2516@naver.com
@@ -199,12 +193,6 @@ Educational / license-exam prep apps were released on the App Store and Google P
 - Finance / XRPL-based crypto & finance tools (Elliott Wave, XRP Dashboard)
 - Web & API hacking education platforms (VulnBoard, API Hacking Notes)
 - Practical business web apps (tax invoice etc.)
-
-## 📊 GitHub Stats
-
-![JimProKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimProKing&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JimProKing&layout=compact&theme=transparent&hide_border=true)
 
 ## 📬 Contact
 
