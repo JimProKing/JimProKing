@@ -8,7 +8,7 @@
 
 - **Elliott Wave 기반 트레이딩 도구** 제작: 주식 및 크립토 상위 종목 분석 스캐너 (Binance, 한국 주식)
 - **XRPL / XRP 온체인 대시보드** 구축: 실시간 차트, 프리미엄, 부자 순위 등 종합 데이터 시각화
-- **웹 해킹 교육 플랫폼**: 한국어 웹 해킹 책 기반의 취약 실습 사이트 (VulnBoard 시리즈)
+- **웹·API 해킹 교육 플랫폼**: 한국어 보안 서적 기반 취약 실습 사이트 및 인터랙티브 학습 노트
 - **실전 웹 애플리케이션**: 세금계산서 시스템, 상품 데모 등 Flask 기반 웹 앱 개발
 - **모바일 앱 개발 (2022~2023)**: Flutter로 교육용 앱 10여 개 제작·배포 (App Store / Google Play, 상호명 짐앱)
 
@@ -19,7 +19,7 @@
 | **Languages**     | Python, HTML/CSS/JS, Dart (Flutter 기초)     |
 | **Backend**       | FastAPI, Flask, Django, Spring (work)             |
 | **Data & Crypto** | pandas, numpy, FinanceDataReader, XRPL, Binance API |
-| **Web Security**  | SQL Injection, XSS, IDOR, Burp Suite, Vuln labs   |
+| **Web Security**  | SQL Injection, XSS, IDOR, API Hacking, Burp Suite, Vuln labs   |
 | **Tools**         | GitHub Actions, Railway, SQLite, Tailwind         |
 | **Other**         | Data Visualization, Web Crawling, OCR             |
 
@@ -39,6 +39,10 @@
   한국 주식 고거래량 종목 대상 엘리어트 파동 기반 상승 가능성 분석 도구. 귀여운 펫 사진이 있는 안정 플러스키 웹 UI.
 
 ### 🔨 Web Security Education Labs
+
+- **[API 해킹 야간 노트](https://github.com/JimProKing/api-hacking-notes)**  
+  코리 볼 《API 해킹의 모든 것》 흐름을 따라 만든 인터랙티브 학습 사이트. REST/GraphQL, BOLA·JWT·퍼징, 합법 실습 가이드, 퀴즈·진도·SVG 다이어그램.  
+  [Live Demo](https://api-hacking-notes-production.up.railway.app/)
 
 - **[VulnBoard + webhacking-bible-lab](https://github.com/JimProKing/VulnBoard)**  
   한국어 웹 해킹 책(크리해킹티브) 기반 의도적으로 취약한 실습 웹사이트. SQL Injection, XSS, IDOR, Command Injection 등 실제 공격 시나리오 제공. 
@@ -83,7 +87,7 @@ App Store · Google Play에 교육/라이선스 시험 대비 앱을 출시했�
 
 **2025~2026** — 전문 도구 개발 기
 - **파이낸스 / XRPL** 기반 크립토 & 파이낸스 도구 개발 (Elliott Wave, XRP Dashboard)
-- **웹 해킹 교육 플랫폼** 제작 (VulnBoard 시리즈)
+- **웹·API 해킹 교육 플랫폼** 제작 (VulnBoard, API 해킹 야간 노트)
 - 실전 비즈니스 웹 앱 (세금계산서 등)
 
 ## 📊 GitHub Stats
@@ -115,7 +119,7 @@ App Store · Google Play에 교육/라이선스 시험 대비 앱을 출시했�
 
 - **Elliott Wave-based trading tools**: Scanners analyzing top stocks and crypto pairs (Binance, Korean equities)
 - **XRPL / XRP On-Chain Dashboard**: Real-time charts, premium, rich-list and comprehensive data visualization
-- **Web Hacking Education Platform**: Intentionally vulnerable practice sites based on Korean web hacking books (VulnBoard series)
+- **Web & API Hacking Education Platforms**: Intentionally vulnerable labs and interactive study sites based on Korean security books
 - **Practical Web Applications**: Tax invoice system, product demos and other Flask-based apps
 - **Mobile App Development (2022–2023)**: Built and published 10+ educational apps with Flutter (App Store / Google Play, brand name: JimApp)
 
@@ -126,7 +130,7 @@ App Store · Google Play에 교육/라이선스 시험 대비 앱을 출시했�
 | **Languages**     | Python, HTML/CSS/JS, Dart (Flutter basics)        |
 | **Backend**       | FastAPI, Flask, Django, Spring (work)             |
 | **Data & Crypto** | pandas, numpy, FinanceDataReader, XRPL, Binance API |
-| **Web Security**  | SQL Injection, XSS, IDOR, Burp Suite, Vuln labs   |
+| **Web Security**  | SQL Injection, XSS, IDOR, API Hacking, Burp Suite, Vuln labs   |
 | **Tools**         | GitHub Actions, Railway, SQLite, Tailwind         |
 | **Other**         | Data Visualization, Web Crawling, OCR             |
 
@@ -146,6 +150,10 @@ App Store · Google Play에 교육/라이선스 시험 대비 앱을 출시했�
   Elliott Wave-based upside analysis tool for high-volume Korean stocks. Calm pastel web UI with cute pet photos.
 
 ### 🔨 Web Security Education Labs
+
+- **[API Hacking Notes](https://github.com/JimProKing/api-hacking-notes)**  
+  Interactive study site based on *Hacking APIs* (Corey Ball). Covers REST/GraphQL, BOLA, JWT, fuzzing, legal practice guide, quizzes, progress tracking, and SVG diagrams.  
+  [Live Demo](https://api-hacking-notes-production.up.railway.app/)
 
 - **[VulnBoard + webhacking-bible-lab](https://github.com/JimProKing/VulnBoard)**  
   Intentionally vulnerable practice website based on a Korean web-hacking book. Covers SQL Injection, XSS, IDOR, Command Injection and more. Includes structured challenges + solutions. Designed for Burp Suite practice.  
@@ -189,7 +197,7 @@ Educational / license-exam prep apps were released on the App Store and Google P
 
 **2025–2026** — Professional tool development
 - Finance / XRPL-based crypto & finance tools (Elliott Wave, XRP Dashboard)
-- Web hacking education platforms (VulnBoard series)
+- Web & API hacking education platforms (VulnBoard, API Hacking Notes)
 - Practical business web apps (tax invoice etc.)
 
 ## 📊 GitHub Stats
