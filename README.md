@@ -50,7 +50,6 @@
 ### Product & systems (ship / operate)
 
 - **Flutter 앱 10+** (짐앱) — 토익·오픽·한국사·기사 시험 등 교육 앱, 스토어 배포·운영
-- **[tax-invoice-web](https://github.com/JimProKing/tax-invoice-web)** — 한국형 세금계산서 작성·발행·인쇄 (Flask)
 - Work: 국가직 전산 — Spring 생태계, 대량 메시지·형상·품질 프로세스 경험
 
 <p align="center">
@@ -132,7 +131,7 @@ Path: Chemical Engineering → process engineer → indie app business → publi
 ### Featured repos
 
 Security: [api-hacking-notes](https://github.com/JimProKing/api-hacking-notes) · [VulnBoard](https://github.com/JimProKing/VulnBoard) · [webhacking-bible-lab](https://github.com/JimProKing/webhacking-bible-lab) · PortSwigger practice repos · [optical-qr-transfer](https://github.com/JimProKing/optical-qr-transfer) · [aegis-cortex](https://github.com/JimProKing/aegis-cortex) · [dreamhack](https://github.com/JimProKing/dreamhack)  
-Ship: Flutter portfolio (images above) · [tax-invoice-web](https://github.com/JimProKing/tax-invoice-web)  
+Ship: Flutter portfolio (images above)  
 Side: [elliott-wave-scanner](https://github.com/JimProKing/elliott-wave-scanner) · [xrp-dashboard](https://github.com/JimProKing/xrp-dashboard)
 
 ### Journey (short)
