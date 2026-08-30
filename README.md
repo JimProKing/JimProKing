@@ -15,7 +15,7 @@
 |--|--|
 | **Role** | 국가기관 전산 |
 | **Focus** | 웹/API 해킹 실습, PortSwigger, 취약점 분석, 방어 관점 학습 |
-| **Cert** | 정보보안기사 응시 완료 (결과 대기) · 정보처리기사 등 |
+| **Cert** | 정보보안기사 · 정보처리기사 등 |
 | **Stack (work)** | Java · Spring · JSP · WebSquare · DB2 · XML 메시지 · 형상관리·테스트·유지보수 |
 | **Stack (build)** | Python · Flask/FastAPI · JS · Flutter(Dart) · GitHub Actions |
 
@@ -63,7 +63,7 @@
   [Live](https://elliott-focused-viewer-production.up.railway.app/)
 - **[xrp-dashboard](https://github.com/JimProKing/xrp-dashboard)** — XRPL 온체인·거래량·프리미엄 대시보드  
   [Live](https://web-production-7a41a.up.railway.app/)
-- **[longshort-han-nune](https://github.com/JimProKing/longshort-han-nune)** — 롱/숏 비율·지지·진입 뷰어
+- **[longshort-han-nune](https://github.com/JimProKing/longshort-han-nune)** — 롱/숋 비율·지지·진입 뷰어
 
 ---
 
@@ -87,7 +87,7 @@
 | **2021–2022** | 대기업 공정기술직 |
 | **2022–2023** | 1인 사업(짐앱) — Flutter 앱 10+ 출시 |
 | **2024.11 –** | 국가기관 전산 |
-| **2025–2026** | 웹해킹 랩, PortSwigger, API 해킹, 정보보안기사 응시 |
+| **2025–2026** | 웹해킹 랩, PortSwigger, API 해킹, 정보보안기사 취득 |
 
 ---
 
@@ -116,7 +116,7 @@ Path: Chemical Engineering → process engineer → indie apps → national inst
 
 - **Role:** National institution (IT)
 - **Focus:** Web/API security practice, PortSwigger, vulnerability analysis
-- **Cert:** Information Security Engineer exam taken (awaiting result)
+- **Cert:** Information Security Engineer · Information Processing Engineer, etc.
 - **Work stack:** Java, Spring, JSP, WebSquare, DB2, XML messaging, SCM / test / maintenance
 - **Build stack:** Python, Flask/FastAPI, JS, Flutter, GitHub Actions
 
@@ -135,7 +135,7 @@ Side: [elliott-wave-scanner](https://github.com/JimProKing/elliott-wave-scanner)
 
 ### Journey
 
-ChemEng → plant engineer (2021–22) → indie apps (2022–23) → national institution, IT (2024.11–) → security focus (2025–26).
+ChemEng → plant engineer (2021–22) → indie apps (2022–23) → national institution, IT (2024.11–) → security focus, Information Security Engineer (2025–26).
 
 ### Contact
 
