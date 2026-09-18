@@ -15,9 +15,10 @@
 |--|--|
 | **Role** | 국가기관 전산 |
 | **Focus** | 웹/API 해킹 실습, PortSwigger, 취약점 분석, 방어 관점 학습 |
+| **Latest** | **[docker-notes](https://github.com/JimProKing/docker-notes)** — 도커 기본기 손필기 + 파이썬 예제 |
 | **Cert** | 정보보안기사 · 정보처리기사 등 |
 | **Stack (work)** | Java · Spring · JSP · WebSquare · DB2 · XML 메시지 · 형상관리·테스트·유지보수 |
-| **Stack (build)** | Python · Flask/FastAPI · JS · Flutter(Dart) · GitHub Actions |
+| **Stack (build)** | Python · Flask/FastAPI · JS · Flutter(Dart) · Docker · GitHub Actions |
 
 ---
 
@@ -32,6 +33,16 @@
 ---
 
 ## Featured · Security first
+
+### [docker-notes](https://github.com/JimProKing/docker-notes)
+
+손필기 4장 그대로 위에 두고, 밑은 파이썬으로 다시 돌린 도커 기본기.
+
+<p align="center">
+  <a href="https://github.com/JimProKing/docker-notes">
+    <img src="https://raw.githubusercontent.com/JimProKing/docker-notes/main/notes/01-docker.jpg" alt="도커 기본기 손필기" width="88%" />
+  </a>
+</p>
 
 ### Labs & write-ups
 
@@ -63,7 +74,7 @@
   [Live](https://elliott-focused-viewer-production.up.railway.app/)
 - **[xrp-dashboard](https://github.com/JimProKing/xrp-dashboard)** — XRPL 온체인·거래량·프리미엄 대시보드  
   [Live](https://web-production-7a41a.up.railway.app/)
-- **[longshort-han-nune](https://github.com/JimProKing/longshort-han-nune)** — 롱/숋 비율·지지·진입 뷰어
+- **[longshort-han-nune](https://github.com/JimProKing/longshort-han-nune)** — 롱/쉮 비율·지지·진입 뷰어
 
 ---
 
@@ -74,7 +85,7 @@
 | **Security** | Web/API vulns (SQLi, XSS, IDOR, access control, path traversal), Burp, lab design |
 | **Languages** | Python, Java, JavaScript, Dart (Flutter), SQL |
 | **Backend / work** | Spring, JSP, WebSquare, FastAPI, Flask, Django, DB2 / SQLite |
-| **Ship** | App Store / Play 배포, GitHub Actions, Railway |
+| **Ship** | App Store / Play 배포, GitHub Actions, Railway, Docker |
 | **Other** | pandas, 크롤링, 데이터 시각화 |
 
 ---
@@ -116,9 +127,10 @@ Path: Chemical Engineering → process engineer → indie apps → national inst
 
 - **Role:** National institution (IT)
 - **Focus:** Web/API security practice, PortSwigger, vulnerability analysis
+- **Latest:** [docker-notes](https://github.com/JimProKing/docker-notes) — Docker basics, handwritten notes + Python examples
 - **Cert:** Information Security Engineer · Information Processing Engineer, etc.
 - **Work stack:** Java, Spring, JSP, WebSquare, DB2, XML messaging, SCM / test / maintenance
-- **Build stack:** Python, Flask/FastAPI, JS, Flutter, GitHub Actions
+- **Build stack:** Python, Flask/FastAPI, JS, Flutter, Docker, GitHub Actions
 
 ### Highlights
 
@@ -129,6 +141,7 @@ Path: Chemical Engineering → process engineer → indie apps → national inst
 
 ### Featured repos
 
+**[docker-notes](https://github.com/JimProKing/docker-notes)** — Docker basics (handwritten notes + Python)  
 Security: [api-hacking-notes](https://github.com/JimProKing/api-hacking-notes) · [VulnBoard](https://github.com/JimProKing/VulnBoard) · [webhacking-bible-lab](https://github.com/JimProKing/webhacking-bible-lab) · PortSwigger practice · [optical-qr-transfer](https://github.com/JimProKing/optical-qr-transfer) · [aegis-cortex](https://github.com/JimProKing/aegis-cortex) · [dreamhack](https://github.com/JimProKing/dreamhack)  
 Ship: Flutter portfolio (images above)  
 Side: [elliott-wave-scanner](https://github.com/JimProKing/elliott-wave-scanner) · [xrp-dashboard](https://github.com/JimProKing/xrp-dashboard)
@@ -146,4 +159,4 @@ ChemEng → plant engineer (2021–22) → indie apps (2022–23) → national i
 
 ---
 
-<sub>README updated: 2026-08 · Public-sector affiliation stated only as national institution (no agency name).</sub>
+<sub>README updated: 2026-09 · Public-sector affiliation stated only as national institution (no agency name).</sub>
