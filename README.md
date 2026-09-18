@@ -74,7 +74,7 @@
   [Live](https://elliott-focused-viewer-production.up.railway.app/)
 - **[xrp-dashboard](https://github.com/JimProKing/xrp-dashboard)** — XRPL 온체인·거래량·프리미엄 대시보드  
   [Live](https://web-production-7a41a.up.railway.app/)
-- **[longshort-han-nune](https://github.com/JimProKing/longshort-han-nune)** — 롱/쉮 비율·지지·진입 뷰어
+- **[longshort-han-nune](https://github.com/JimProKing/longshort-han-nune)** — 롱/숲 비율·지지·진입 뷰어
 
 ---
 
