@@ -92,13 +92,11 @@
 
 ## Journey
 
-| Period | |
-|--------|--|
-| **~2021** | 화학공학 전공 |
-| **2021–2022** | 대기업 공정기술직 |
-| **2022–2023** | 1인 사업(짐앱) — Flutter 앱 10+ 출시 |
-| **2024.11 –** | 국가기관 전산 |
-| **2025–2026** | 웹해킹 랩, PortSwigger, API 해킹, 정보보안기사 취득 |
+- 화학공학 전공
+- 대기업 공정기술직
+- 1인 사업(짐앱) — Flutter 앱 10+ 출시
+- 국가기관 전산
+- 웹해킹 랩, PortSwigger, API 해킹, 정보보안기사 취득
 
 ---
 
@@ -148,7 +146,7 @@ Side: [elliott-wave-scanner](https://github.com/JimProKing/elliott-wave-scanner)
 
 ### Journey
 
-ChemEng → plant engineer (2021–22) → indie apps (2022–23) → national institution, IT (2024.11–) → security focus, Information Security Engineer (2025–26).
+ChemEng → plant engineer → indie apps → national institution, IT → security focus, Information Security Engineer.
 
 ### Contact
 
