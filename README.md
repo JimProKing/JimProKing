@@ -26,7 +26,7 @@
 
 - **공공 전산** — 대국민 서비스 요구분석·설계·유지보수·테스트
 - **웹·API 보안** — 취약 랩, PortSwigger write-up, API 해킹 학습, 방어 실험
-- **1인 제품** — Flutter 교육용 앱 10여 개 App Store / Google Play 출시 (짐앱, 2022–2023)
+- **1인 제품** — Flutter 교육용 앱 10여 개 App Store / Google Play 출시 (짐앱)
 - **배경** — 화학공학 · 공정기술직 · 데이터·자동화 경험
 - **사이드** — 파이낸스/온체인 대시보드·스캐너
 
@@ -134,7 +134,7 @@ Path: Chemical Engineering → process engineer → indie apps → national inst
 
 - Public IT: requirements, design, maintenance, testing on citizen-facing services
 - Security labs: VulnBoard, API hacking notes, PortSwigger write-ups, defensive experiments ([aegis-cortex](https://github.com/JimProKing/aegis-cortex))
-- **10+ Flutter apps** on App Store / Google Play (JimApp, 2022–2023)
+- **10+ Flutter apps** on App Store / Google Play (JimApp)
 - Background: ChemEng, plant process role
 
 ### Featured repos
@@ -157,4 +157,4 @@ ChemEng → plant engineer → indie apps → national institution, IT → secur
 
 ---
 
-<sub>README updated: 2026-09 · Public-sector affiliation stated only as national institution (no agency name).</sub>
+<sub>Public-sector affiliation stated only as national institution (no agency name).</sub>
